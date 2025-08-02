@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Balenciaga Authenticity Check</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #fff;
+      color: #111;
+      border: 1px solid #ccc;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      line-height: 1.6;
+    }
+    h1 {
+      color: green;
+    }
+    a {
+      color: #0070f3;
+      text-decoration: none;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>THIS ITEM IS AUTHENTIC</h1>
+  <p><strong>Product:</strong> Balenciaga Hoodie</p>
+  <p><strong>Model:</strong> eBay Exclusive</p>
+  <p><strong>Color:</strong> Washed Black</p>
+  <p><strong>Size:</strong> L</p>
+  <p><strong>Made in:</strong> Portugal</p>
+  <p><strong>Date of Manufacture:</strong> June 2024</p>
+  <p><strong>Serial ID:</strong> BB-EBAY-9F23C17</p>
+  <p><a href="https://authentic.balenciaga.com/item/BB-EBAY-9F23C17" target="_blank">More information on balenciaga.com</a></p>
+
+  <div class="footer">
+    Verified by Aura Blockchain Consortium.<br />
+    This product has been registered and authenticated using secure NFC verification.
+  </div>
+</body>
+</html>
